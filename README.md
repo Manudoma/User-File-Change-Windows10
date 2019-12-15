@@ -23,7 +23,7 @@ Este sera el estado de la maquina tras el reinicio.
 Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate.xml*.
  <details>
   <summary>Creación del XML</summary>
-  Abriremos un bloc de notas y pondremos el siguien
+  Abriremos un bloc de notas y pondremos el siguiente contenido:
   
   
  ```xml
@@ -38,10 +38,13 @@ Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate
 </settings>
 </unattend>
  ```
-  
+  Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del archivo es XML)
 </details>
+Una vez tengamos el archivo, por defecto esta configurado para 
+
+
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzkxNzAwNSw4MzI3NjM5NzQsLTEyOT
+eyJoaXN0b3J5IjpbLTE4MDYzNjcxMiw4MzI3NjM5NzQsLTEyOT
 Y1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
