@@ -6,7 +6,7 @@ A tutorial to change default disk of users folder to one of your choice.
 
 <aside class="warning">
 Probado en:
-//
+::: warning
 Tested on:
 
  - 1803
@@ -16,7 +16,7 @@ Tested on:
 Puede funcionar en versiones mas antiguas, pero no ha sido probado.
 //
 It may work in older versions, but it has not been tested.
-</aside>
+:::
 
 ## Español
 
