@@ -4,18 +4,8 @@ A tutorial to change default disk of users folder to one of your choice.
  - [Español](#Spanish)
  - [English](#English)
 
-<div class="warning'>
-Probado en:
-Tested on:
-
- - 1803
- - 1809
- - 1903
- - 1909
-Puede funcionar en versiones mas antiguas, pero no ha sido probado.
-//
-It may work in older versions, but it has not been tested.
-</div>
+| :zap:        Ignore at your own risk!   |
+|-----------------------------------------|
 
 ## Español
 
