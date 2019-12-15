@@ -15,9 +15,10 @@ Requisitos:
 
 ### 1. Arrancamos el medio de instalación
 Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste hasta llegar a la imagen siguiente:
-
+![](https://img.vim-cn.com/ff/153f41b2744d2f8c8ee7705ba8b61cd27252eb.png)
+Aquí pulsaremos Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY1NjE3OTUsLTE0NDE0ODkzNTQsMT
-Y0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbNDE0MzY4NDg1LC0xMjk2NTYxNzk1LC0xND
+QxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
 -->
