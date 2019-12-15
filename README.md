@@ -4,19 +4,34 @@ A tutorial to change default disk of users folder to one of your choice.
  - [Español](#Spanish)
  - [English](#English)
 
-| :warning: WARNING          |
-|:---------------------------|
-|Probado en:
-Tested on:
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :warning: Tested on:
+      </td>
+    </tr>
+  </thead>
 
- - 1803
- - 1809
- - 1903
- - 1909
-Puede funcionar en versiones mas antiguas, pero no ha sido probado.
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>1803</li>
+          <li>1809</li>
+         <li>1903</li>
+         <li>1909</li>
+        </ul>
+      </td>
+    </tr>
+ <tr><td>
+  Puede funcionar en versiones mas antiguas, pero no ha sido probado.
 //
-It may work in older versions, but it has not been tested.|
-|
+It may work in older versions, but it has not been tested.
+  </td>
+ </tr>
+  </tbody>
+</table>
 
 ## Español
 
