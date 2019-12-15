@@ -40,11 +40,11 @@ Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate
  ```
   Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del archivo es XML)
 </details>
-Una vez tengamos el archivo, por defecto esta configurado para 
+Una vez tengamos el archivo, por defecto esta configurado para ***D:\Users*** (No se recomienda cambiar ya que windows prefiere la letra D como disco secundario)
 
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYzNjcxMiw4MzI3NjM5NzQsLTEyOT
-Y1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbLTEzMTgxODkyMDQsODMyNzYzOTc0LC0xMj
+k2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
 -->
