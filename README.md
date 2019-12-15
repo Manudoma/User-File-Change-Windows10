@@ -42,13 +42,13 @@ Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se
 
     <ProfilesDirectory>D:\Users</ProfilesDirectory>
 
-Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. 
+Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. (ha de ser en el directorio raiz).
 
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODE4NjgwLC0zMjk3NzE4MjgsMTg1Nz
-cyNTQyNyw3MTUwNDA2NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0
-LC0xMjk2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ
-==
+eyJoaXN0b3J5IjpbMTQzNjg2MTMxOSwtMzI5NzcxODI4LDE4NT
+c3MjU0MjcsNzE1MDQwNjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3
+NCwtMTI5NjU2MTc5NSwtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX
+0=
 -->
