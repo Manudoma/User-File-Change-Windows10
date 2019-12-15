@@ -42,12 +42,15 @@ Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se
 
     <ProfilesDirectory>D:\Users</ProfilesDirectory>
 
-Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. (ha de ser en el directorio raiz).
+Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. (ha de ser en el directorio raíz).
+### 3. Ejecución del archivo
+Abrimos una ventana de cmd como administrador (Win + R) y escribimos:
 
+    %windir%\system32\sysprep\sysprep.exe /oobe /reboot /unattend:d:\relocate.xml
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjg2MTMxOSwtMzI5NzcxODI4LDE4NT
+eyJoaXN0b3J5IjpbMTAwNTc5MTU1NSwtMzI5NzcxODI4LDE4NT
 c3MjU0MjcsNzE1MDQwNjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3
 NCwtMTI5NjU2MTc5NSwtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX
 0=
