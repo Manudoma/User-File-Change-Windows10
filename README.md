@@ -5,11 +5,17 @@ A tutorial to change default disk of users folder to one of your choice.
  - [English](#English)
 
 <aside class="warning">
-Probado en/Tested on:
+Probado en:
+//
+Tested on:
 
  - 1803
- - 
-
+ - 1809
+ - 1903
+ - 1909
+Puede funcionar en versiones mas antiguas, pero no ha sido probado.
+//
+It may work in older versions, but it has not been tested.
 </aside>
 
 ## Español
@@ -126,7 +132,7 @@ That's it, easy right?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjg4ODQwNSwtMTE3MzM4NDkwOCwtNz
+eyJoaXN0b3J5IjpbMTkwMzIzMjA5NywtMTE3MzM4NDkwOCwtNz
 E4NTEzMjI5LC0zMjk3NzE4MjgsMTg1NzcyNTQyNyw3MTUwNDA2
 NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0LC0xMjk2NTYxNzk1LC
 0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
