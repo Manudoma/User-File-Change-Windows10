@@ -8,11 +8,13 @@ A tutorial to change default disk of users folder to one of your choose.
 
 ## Spanish
 Requisitos:
- - Instalador de Windows 10 usb / DVD
- - Un pc con 2 discos (o dos partici
+ - Instalador de Windows 10 usb / DVD.
+ - Un PC con 2 discos (o dos particiones).
+ - Poder formatear dicho PC.
+ - 5 minutos mas o menos respecto a una intalación nomal de Windows 10.
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxOTkyNzMsLTE0NDE0ODkzNTQsMTY0Mj
-c3ODk5Nl19
+eyJoaXN0b3J5IjpbLTE4MzExMjQ5NTgsLTE0NDE0ODkzNTQsMT
+Y0Mjc3ODk5Nl19
 -->
