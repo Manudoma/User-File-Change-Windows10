@@ -8,61 +8,8 @@ A tutorial to change default disk of users folder to one of your choose.
 
 ## Spanish
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
-
+*[HTML]: HyperText Markup Language
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjIyMTYwNF19
+eyJoaXN0b3J5IjpbMTY0Mjc3ODk5Nl19
 -->
