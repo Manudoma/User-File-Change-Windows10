@@ -72,8 +72,8 @@ After boot we need to cancel this window.
 ### 2. XML creation
 Create or donload a xml file named *relocate.xml*. (Check repository files for download)
  <details>
-  <summary>M</summary>
-  Abriremos un bloc de notas y pondremos el siguiente contenido:
+  <summary>Manual XML creation</summary>
+  Open notepad and write/paste this:
 
     <?xml version="1.0" encoding="utf-8"?>
     <unattend xmlns="urn:schemas-microsoft-com:unattend">
@@ -86,7 +86,7 @@ Create or donload a xml file named *relocate.xml*. (Check repository files for d
     </settings>
     </unattend>
 
-Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del archivo es XML)
+Save it as: *relocate.xml*. (Make sure to save as XML)
 </details>
 Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se recomienda cambiar ya que Windows prefiere la letra D como disco secundario). Para cambiarlo necesitaremos editar la linea:
 
@@ -105,8 +105,8 @@ Esto abrirá una ventana similar a esta:
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE0NjU2NTMsLTExNzMzODQ5MDgsLT
-cxODUxMzIyOSwtMzI5NzcxODI4LDE4NTc3MjU0MjcsNzE1MDQw
-NjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3NCwtMTI5NjU2MTc5NS
-wtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX0=
+eyJoaXN0b3J5IjpbNDU5Njc0ODk4LC0xMTczMzg0OTA4LC03MT
+g1MTMyMjksLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1
+MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLT
+E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
