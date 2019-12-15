@@ -1,10 +1,14 @@
 # User-File-Change-Windows10
-A tutorial to change default disk of users folder to one of your choose.
+A tutorial to change default disk of users folder to one of your choice.
 
  - [Español](#Spanish)
  - [English](#English)
 
+```
+<aside class="warning">
 
+</aside>
+```
 
 ## Español
 Requisitos:
@@ -111,7 +115,7 @@ That's it, easy right?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODczNjE5MiwtMTE3MzM4NDkwOCwtNz
+eyJoaXN0b3J5IjpbLTg2Nzk5OTc1MiwtMTE3MzM4NDkwOCwtNz
 E4NTEzMjI5LC0zMjk3NzE4MjgsMTg1NzcyNTQyNyw3MTUwNDA2
 NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0LC0xMjk2NTYxNzk1LC
 0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
