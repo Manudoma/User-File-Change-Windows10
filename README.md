@@ -20,9 +20,28 @@ Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC s
 ![enter image description here](https://img.vim-cn.com/2f/e0076f414bc45e7159302109a459c63b598ede.png)
 Este sera el estado de la maquina tras el reinicio.
 ### 2. Creación de XML
-Deberemos crear o descargar (adjunto en el repositorio) un xml llamado relocate.xml
+Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate.xml*.
+ <details>
+  <summary>Spoiler warning</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+ ```xml
+ <?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+<settings pass="oobeSystem">
+<component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<FolderLocations>
+<ProfilesDirectory>D:\Users</ProfilesDirectory>
+</FolderLocations>
+</component>
+</settings>
+</unattend>
+ ```
+  
+</details>
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU0OTU1Nyw4MzI3NjM5NzQsLTEyOT
-Y1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbLTEyOTE3MjgwMTcsODMyNzYzOTc0LC0xMj
+k2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
 -->
