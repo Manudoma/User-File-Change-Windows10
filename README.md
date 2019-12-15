@@ -40,11 +40,15 @@ Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del a
 </details>
 Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se recomienda cambiar ya que Windows prefiere la letra D como disco secundario). Para cambiarlo necesitaremos editar la linea:
 
+    <ProfilesDirectory>D:\Users</ProfilesDirectory>
+
+Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. 
 
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNT
-A0MDY1MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3
-OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbNzk1ODE4NjgwLC0zMjk3NzE4MjgsMTg1Nz
+cyNTQyNyw3MTUwNDA2NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0
+LC0xMjk2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ
+==
 -->
