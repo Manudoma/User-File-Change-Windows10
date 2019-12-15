@@ -14,9 +14,10 @@ Requisitos:
  - 5 minutos mas o menos respecto a una intalación nomal de Windows 10.
 
 ### 1. Arrancamos el medio de instalación
-Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste 
+Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste hasta llegar a la imagen siguiente:
+
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODE5OTA4OSwtMTQ0MTQ4OTM1NCwxNj
-QyNzc4OTk2XX0=
+eyJoaXN0b3J5IjpbLTEyOTY1NjE3OTUsLTE0NDE0ODkzNTQsMT
+Y0Mjc3ODk5Nl19
 -->
