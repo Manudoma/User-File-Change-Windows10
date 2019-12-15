@@ -6,7 +6,7 @@ A tutorial to change default disk of users folder to one of your choose.
 
 
 
-## Spanish
+## Español
 Requisitos:
  - Instalador de Windows 10 usb / DVD.
  - Un PC con 2 discos (o dos particiones).
@@ -111,8 +111,8 @@ That's it, easy right?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Njc5OTYzLC0xMTczMzg0OTA4LC03MT
-g1MTMyMjksLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1
-MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLT
-E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbMTQyODczNjE5MiwtMTE3MzM4NDkwOCwtNz
+E4NTEzMjI5LC0zMjk3NzE4MjgsMTg1NzcyNTQyNyw3MTUwNDA2
+NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0LC0xMjk2NTYxNzk1LC
+0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
 -->
