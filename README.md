@@ -50,12 +50,12 @@ Abrimos una ventana de cmd como administrador (Win + R) y escribimos:
 
 Esto abrirá una ventana similar a esta:
 ![](https://img.vim-cn.com/e8/7b2c3609c6c553806b6d80af02ef98285ead6c.png)
-Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda 
+Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMxMzA3MTEsLTMyOTc3MTgyOCwxOD
+eyJoaXN0b3J5IjpbLTE0Njk2ODI1MDksLTMyOTc3MTgyOCwxOD
 U3NzI1NDI3LDcxNTA0MDY1MiwtMTMxODE4OTIwNCw4MzI3NjM5
 NzQsLTEyOTY1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl
 19
