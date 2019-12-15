@@ -25,17 +25,18 @@ Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate
   <summary>Creación del XML</summary>
   Abriremos un bloc de notas y pondremos el siguiente contenido:
 
->  <?xml version="1.0" encoding="utf-8"?> <unattend
-> xmlns="urn:schemas-microsoft-com:unattend"> <settings
-> pass="oobeSystem"> <component name="Microsoft-Windows-Shell-Setup"
-> processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"
-> language="neutral" versionScope="nonSxS"
-> xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State"
-> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-> <FolderLocations> <ProfilesDirectory>D:\Users</ProfilesDirectory>
-> </FolderLocations> </component> </settings> </unattend>
+    <?xml version="1.0" encoding="utf-8"?>
+    <unattend xmlns="urn:schemas-microsoft-com:unattend">
+    <settings pass="oobeSystem">
+    <component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <FolderLocations>
+    <ProfilesDirectory>D:\Users</ProfilesDirectory>
+    </FolderLocations>
+    </component>
+    </settings>
+    </unattend>
 
-  Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del archivo es XML)
+Después lo guardaremos como *relocate.xml*. (Asegurarse de que el formato del archivo es XML)
 </details>
 Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se recomienda cambiar ya que Windows prefiere la letra D como disco secundario). Para cambiarlo necesitaremos editar la linea:
 
@@ -43,7 +44,7 @@ Una vez tengamos el archivo, por defecto esta configurado para *D:\Users* (No se
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTkzNjI5MiwxODU3NzI1NDI3LDcxNT
+eyJoaXN0b3J5IjpbLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNT
 A0MDY1MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3
 OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
