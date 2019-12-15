@@ -35,9 +35,7 @@ It may work in older versions, but it has not been tested.
 
 ## Español
 
-<aside class="warning">
-No me hago responsable de posibles daños de hardware o software. El usuario utiliza esta guia bajo su propio riesgo.
-</aside>
+
 <table>
   <thead>
     <tr>
@@ -55,6 +53,7 @@ No me hago responsable de posibles daños de hardware o software. El usuario uti
     </tr>
   </tbody>
 </table>
+
 
 Requisitos:
  - Instalador de Windows 10 usb / DVD.
@@ -123,6 +122,7 @@ Despues de esta ventana se nos reiniciara el equipo para proseguir con el proces
     </tr>
   </tbody>
 </table>
+
 
 Requisites:
  - Windows 10 boostable USB or DVD
