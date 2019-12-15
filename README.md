@@ -92,20 +92,21 @@ The file its default to folder *D:\Users* (I dont recomend changing it because w
 
     <ProfilesDirectory>D:\Users</ProfilesDirectory>
 
-Deberemos de guardar el xml en el disco en el cual vamos a mover las carpetas. (ha de ser en el directorio raíz).
-### 3. Ejecución del archivo
-Abrimos una ventana de cmd como administrador (Win + R) y escribimos:
+Save/Move the file to de new disk root directory.
+
+### 3. File run
+Open a CMD window (from WIN + R) and type:
 
     %windir%\system32\sysprep\sysprep.exe /oobe /reboot /unattend:d:\relocate.xml
 
-Esto abrirá una ventana similar a esta:
+Will see a window looking like this:
 
 ![](https://img.vim-cn.com/e8/7b2c3609c6c553806b6d80af02ef98285ead6c.png)
 
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NjY4MDcxLC0xMTczMzg0OTA4LC03MT
+eyJoaXN0b3J5IjpbLTMzNjYxMzUzLC0xMTczMzg0OTA4LC03MT
 g1MTMyMjksLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1
 MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLT
 E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
