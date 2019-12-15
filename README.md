@@ -50,11 +50,13 @@ Abrimos una ventana de cmd como administrador (Win + R) y escribimos:
 
 Esto abrirá una ventana similar a esta:
 ![](https://img.vim-cn.com/e8/7b2c3609c6c553806b6d80af02ef98285ead6c.png)
+Despues de esta ventana se nos
+
 
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTU3NzYzLC0zMjk3NzE4MjgsMTg1Nz
-cyNTQyNyw3MTUwNDA2NTIsLTEzMTgxODkyMDQsODMyNzYzOTc0
-LC0xMjk2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ
-==
+eyJoaXN0b3J5IjpbMTA3MDY2MDcyOSwtMzI5NzcxODI4LDE4NT
+c3MjU0MjcsNzE1MDQwNjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3
+NCwtMTI5NjU2MTc5NSwtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX
+0=
 -->
