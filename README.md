@@ -57,14 +57,14 @@ Despues de esta ventana se nos reiniciara el equipo para proseguir con el proces
 
 ## English
 
-Requisitos:
+Requisites:
  - Windows 10 boostable USB or DVD
  - PC with 2 dicks (or two partitions).
  - Make sure you are ready to format this PC.
  - This will take 5 minutes more than a normal Windows instalation.
 
-### 1. Arrancamos el medio de instalación
-Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste hasta llegar a la imagen siguiente:
+### 1. Start bootable USB.
+Boot de USB or DVD and go on through steps till you see this image:
 ![](https://img.vim-cn.com/ff/153f41b2744d2f8c8ee7705ba8b61cd27252eb.png)
 Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC se reiniciara automáticamente en "*Audit Mode*",  con la cuenta de administrador oculta.
 ![](https://img.vim-cn.com/2f/e0076f414bc45e7159302109a459c63b598ede.png)
@@ -105,8 +105,8 @@ Esto abrirá una ventana similar a esta:
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3MzIyNDE1LC03MTg1MTMyMjksLTMyOT
-c3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1MiwtMTMxODE4OTIw
-NCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLTE0NDE0ODkzNTQsMT
-Y0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbMjA2MDM4OTg2MSwtNzE4NTEzMjI5LC0zMj
+k3NzE4MjgsMTg1NzcyNTQyNyw3MTUwNDA2NTIsLTEzMTgxODky
+MDQsODMyNzYzOTc0LC0xMjk2NTYxNzk1LC0xNDQxNDg5MzU0LD
+E2NDI3Nzg5OTZdfQ==
 -->
