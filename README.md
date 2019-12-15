@@ -22,9 +22,9 @@ Este sera el estado de la maquina tras el reinicio.
 ### 2. Creación de XML
 Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate.xml*.
  <details>
-  <summary>Spoiler warning</summary>
+  <summary>Creación del XML</summary>
+  Abriremos un bloc de notas y pondremos el siguien
   
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
   
  ```xml
  <?xml version="1.0" encoding="utf-8"?>
@@ -42,6 +42,6 @@ Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate
 </details>
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE3MjgwMTcsODMyNzYzOTc0LC0xMj
-k2NTYxNzk1LC0xNDQxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
+eyJoaXN0b3J5IjpbMTg4NzkxNzAwNSw4MzI3NjM5NzQsLTEyOT
+Y1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
