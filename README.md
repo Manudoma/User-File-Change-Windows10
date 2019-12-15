@@ -58,10 +58,10 @@ Despues de esta ventana se nos reiniciara el equipo para proseguir con el proces
 ## English
 
 Requisitos:
- - Windows 
- - Un PC con 2 discos (o dos particiones).
- - Poder formatear dicho PC.
- - 5 minutos mas o menos respecto a una intalación nomal de Windows 10.
+ - Windows 10 boostable USB or DVD
+ - PC with 2 dicks (or two partitions).
+ - Make sure you are ready to format this PC.
+ - This will take 5 minutes more than a normal Windows instalation.
 
 ### 1. Arrancamos el medio de instalación
 Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste hasta llegar a la imagen siguiente:
@@ -105,8 +105,8 @@ Esto abrirá una ventana similar a esta:
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgzMzgyMzUsLTcxODUxMzIyOSwtMz
-I5NzcxODI4LDE4NTc3MjU0MjcsNzE1MDQwNjUyLC0xMzE4MTg5
-MjA0LDgzMjc2Mzk3NCwtMTI5NjU2MTc5NSwtMTQ0MTQ4OTM1NC
-wxNjQyNzc4OTk2XX0=
+eyJoaXN0b3J5IjpbNTU3MzIyNDE1LC03MTg1MTMyMjksLTMyOT
+c3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1MiwtMTMxODE4OTIw
+NCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLTE0NDE0ODkzNTQsMT
+Y0Mjc3ODk5Nl19
 -->
