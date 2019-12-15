@@ -20,8 +20,9 @@ Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC s
 ![enter image description here](https://img.vim-cn.com/2f/e0076f414bc45e7159302109a459c63b598ede.png)
 Este sera el estado de la maquina tras el reinicio.
 ### 2. Creación de XML
+Deberemos crear o descargar (adjunto en el repositorio) un xml llamado relocate.xml
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNzYzOTc0LC0xMjk2NTYxNzk1LC0xND
-QxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzU0OTU1Nyw4MzI3NjM5NzQsLTEyOT
+Y1NjE3OTUsLTE0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
