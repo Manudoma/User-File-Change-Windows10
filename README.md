@@ -66,7 +66,7 @@ Requisites:
 ### 1. Start bootable USB.
 Boot de USB or DVD and go on through steps till you see this image:
 
-Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC se reiniciara automáticamente en "*Audit Mode*",  con la cuenta de administrador oculta.
+Here press ***Ctrl (Left) + Shift (Left) + F3*** and the PC will reboot in "*Audit Mode*",  with the hidden admin 
 
 Este sera el estado de la maquina tras el reinicio. Deberemos cancelar la ventana de la imagen.
 ### 2. Creación de XML
@@ -105,8 +105,8 @@ Esto abrirá una ventana similar a esta:
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMzODQ5MDgsLTcxODUxMzIyOSwtMz
-I5NzcxODI4LDE4NTc3MjU0MjcsNzE1MDQwNjUyLC0xMzE4MTg5
-MjA0LDgzMjc2Mzk3NCwtMTI5NjU2MTc5NSwtMTQ0MTQ4OTM1NC
-wxNjQyNzc4OTk2XX0=
+eyJoaXN0b3J5IjpbLTExNzYyOTMyODYsLTExNzMzODQ5MDgsLT
+cxODUxMzIyOSwtMzI5NzcxODI4LDE4NTc3MjU0MjcsNzE1MDQw
+NjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3NCwtMTI5NjU2MTc5NS
+wtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX0=
 -->
