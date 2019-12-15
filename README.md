@@ -67,12 +67,12 @@ Requisites:
 Boot de USB or DVD and go on through steps till you see this image:
 ![](https://img.vim-cn.com/04/364e0e22d993997aa0a9c170f5dc9dbc2c9a5d.png)
 Here press ***Ctrl (Left) + Shift (Left) + F3*** and the PC will reboot in "*Audit Mode*",  with the hidden admin account.
-
-Este sera el estado de la maquina tras el reinicio. Deberemos cancelar la ventana de la imagen.
-### 2. Creación de XML
-Deberemos crear o descargar (adjunto en el repositorio) un xml llamado *relocate.xml*.
+![enter image description here](https://img.vim-cn.com/1b/f19e8c09d5471b5f3859d38201a175df63f2e3.png)
+After boot we need to cancel this window.
+### 2. XML creation
+Create or donload a xml file named *relocate.xml*. (Check repository files for download)
  <details>
-  <summary>Creación del XML</summary>
+  <summary>M</summary>
   Abriremos un bloc de notas y pondremos el siguiente contenido:
 
     <?xml version="1.0" encoding="utf-8"?>
@@ -105,8 +105,8 @@ Esto abrirá una ventana similar a esta:
 Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDMyMjE3LC0xMTczMzg0OTA4LC03MT
-g1MTMyMjksLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1
-MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLT
-E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
+eyJoaXN0b3J5IjpbLTE5NzE0NjU2NTMsLTExNzMzODQ5MDgsLT
+cxODUxMzIyOSwtMzI5NzcxODI4LDE4NTc3MjU0MjcsNzE1MDQw
+NjUyLC0xMzE4MTg5MjA0LDgzMjc2Mzk3NCwtMTI5NjU2MTc5NS
+wtMTQ0MTQ4OTM1NCwxNjQyNzc4OTk2XX0=
 -->
