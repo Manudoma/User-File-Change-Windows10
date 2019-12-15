@@ -4,9 +4,9 @@ A tutorial to change default disk of users folder to one of your choice.
  - [Español](#Spanish)
  - [English](#English)
 
-| :zap:        Ignore at your own risk!   |
-|-----------------------------------------|::: warning
-Probado en:
+| :warning: WARNING          |
+|:---------------------------|
+|Probado en:
 Tested on:
 
  - 1803
@@ -15,8 +15,8 @@ Tested on:
  - 1909
 Puede funcionar en versiones mas antiguas, pero no ha sido probado.
 //
-It may work in older versions, but it has not been tested.
-:::
+It may work in older versions, but it has not been tested.|
+|
 
 ## Español
 
