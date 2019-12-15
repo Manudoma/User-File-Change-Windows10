@@ -16,9 +16,9 @@ Requisitos:
 ### 1. Arrancamos el medio de instalación
 Tendremos que arrancar el medio de instalación (ya sea un USB o DVD), como más nos guste hasta llegar a la imagen siguiente:
 ![](https://img.vim-cn.com/ff/153f41b2744d2f8c8ee7705ba8b61cd27252eb.png)
-Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC se reiniciara automáticamente con la cuenta de administrador oculta.
+Aquí pulsaremos ***Ctrl (izquierdo) + Shift/Mayus (Izquierdo) + F3*** y el PC se reiniciara automáticamente en "*Audit Mode*",  con la cuenta de administrador oculta.
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MzkxODM5LC0xMjk2NTYxNzk1LC0xND
-QxNDg5MzU0LDE2NDI3Nzg5OTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDc5MzA2NzQsLTEyOTY1NjE3OTUsLT
+E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
 -->
