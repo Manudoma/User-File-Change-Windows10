@@ -103,10 +103,15 @@ Will see a window looking like this:
 
 ![](https://img.vim-cn.com/e8/7b2c3609c6c553806b6d80af02ef98285ead6c.png)
 
-Despues de esta ventana se nos reiniciara el equipo para proseguir con el proceso normal de instalación de windows. (Tarda un poco mas de lo normal, paciencia)
+After this window the system will reboot (takes som time) and continue windows normal setup.
+
+That's it, easy right?
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjYxMzUzLC0xMTczMzg0OTA4LC03MT
+eyJoaXN0b3J5IjpbLTg2Njc5OTYzLC0xMTczMzg0OTA4LC03MT
 g1MTMyMjksLTMyOTc3MTgyOCwxODU3NzI1NDI3LDcxNTA0MDY1
 MiwtMTMxODE4OTIwNCw4MzI3NjM5NzQsLTEyOTY1NjE3OTUsLT
 E0NDE0ODkzNTQsMTY0Mjc3ODk5Nl19
