@@ -25,29 +25,36 @@ A tutorial to change default disk of users folder to one of your choice.
       </td>
     </tr>
  <tr><td>
-  | :warning: WARNING          |
-|:---------------------------|
-|Probado en:
-Tested on:
-
- - 1803
- - 1809
- - 1903
- - 1909
 Puede funcionar en versiones mas antiguas, pero no ha sido probado.
 //
 It may work in older versions, but it has not been tested.
   </td>
  </tr>
   </tbody>
-</table>|
-|
+</table>
 
 ## Español
 
 <aside class="warning">
 No me hago responsable de posibles daños de hardware o software. El usuario utiliza esta guia bajo su propio riesgo.
 </aside>
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :warning: AVISO
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        No me hago responsable de posibles daños de hardware o software. El usuario utiliza esta guia bajo su propio riesgo.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Requisitos:
  - Instalador de Windows 10 usb / DVD.
@@ -99,9 +106,23 @@ Despues de esta ventana se nos reiniciara el equipo para proseguir con el proces
 
 ## English
 
-<aside class="warning">
-I am not responsible for possible hardware or software damage. The user uses this guide at his own risk.
-</aside>
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :warning: WARNING
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        I am not responsible for possible hardware or software damage. The user uses this guide at his own risk.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Requisites:
  - Windows 10 boostable USB or DVD
