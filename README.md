@@ -8,7 +8,54 @@ A tutorial to change default disk of users folder to one of your choose.
 
 ## Spanish
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDk5MTY2Ml19
+eyJoaXN0b3J5IjpbLTE5OTkyMjQ1NDRdfQ==
 -->
